@@ -1,5 +1,5 @@
-public class test_demo {
+ 
 
-       Hello word !
+  重新走一遍，利用git上传Github.
 
-}
+
